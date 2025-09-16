@@ -14,3 +14,5 @@ The goal of this project is to:
 - Explore adoption rates and outcomes over time.
 - Identify trends or patterns that could improve shelter management.
 - Demonstrate API usage to fetch updated animal data.
+
+[RStudio Project report](https://victoriabarrera.github.io/Animal_Shelter/Assignement3AdvData.html)
