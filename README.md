@@ -17,4 +17,4 @@ The goal of this project is to:
 
 [RStudio Project report](https://victoriabarrera.github.io/Animal_Shelter/Assignement3AdvData.html)
 
-[D3 Visualization](my_d3_page/)
+[D3 Visualization](d3_page/)
